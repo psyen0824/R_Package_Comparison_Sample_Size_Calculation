@@ -72,7 +72,6 @@
         </tr>
     </tbody>
 </table>
-* R document: https://cran.r-project.org/web/packages/rms/rms.pdf
 <br/>
 * table made: 2020/06/08
 
